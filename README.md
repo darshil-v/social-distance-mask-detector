@@ -17,12 +17,12 @@ II.	Determine object proximity
 ### Pre-requisites
 
 Please ensure you have the [lastest Python version](https://www.python.org/downloads/) installed on your system. 
-We will also require a package manager (such as [pip](https://pip.pypa.io/en/stable/installation/)) to install dependencies.
-Once installed and ready, download the git, go to the folder and create a virtual environment:
+You will also require a package manager (such as [pip](https://pip.pypa.io/en/stable/installation/)) to install dependencies.
+Once installed and ready, download the repo, unzip, go to the folder and create a virtual environment:
 
 >python3 -m \<venv\> /path/to/new/virtual/environment
 
-where `venv` is your environment name. Activate the environment using command:
+where `venv` is your environment name. Activate the environment by:
 
 > source \<venv\>/bin/activate
 
