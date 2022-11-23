@@ -1,0 +1,5 @@
+imutils==0.5.4
+numpy==1.23.2
+opencv_python_headless==4.6.0.66
+tensorflow==2.11.0
+tensorflow_macos==2.10.0
